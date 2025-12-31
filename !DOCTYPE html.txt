@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>رسالة إلى أصدقائي – رأس سنة 2026</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Tahoma", sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: #ffffff;
+      line-height: 2;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 40px;
+      background: rgba(0, 0, 0, 0.4);
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    }
+
+    h1 { text-align: center; margin-bottom: 30px; font-size: 36px; color: #ffd369; }
+    p { font-size: 18px; margin-bottom: 20px; }
+    .footer { text-align: center; margin-top: 40px; font-size: 16px; color: #cccccc; }
+    .heart { color: #ff6b6b; }
+    .music { text-align: center; margin-bottom: 30px; }
+    iframe { border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.6); }
+  </style>
+</head>
+<body>
+
+  <div class="music">
+    <iframe width="300" height="170"
+      src="https://www.youtube.com/embed/z-GUjA67mdc?autoplay=1&mute=1"
+      title="Golden Brown"
+      frameborder="0"
+      allow="autoplay; encrypted-media"
+      allowfullscreen>
+    </iframe>
+    <p style="font-size:14px; color:#ddd;">اضغط على الفيديو لتشغيل الصوت 🎧</p>
+  </div>
+
+  <div class="container">
+    <h1>إلى أصدقائي في 2025 🤍</h1>
+    <p>مع نهاية سنة 2025 وبداية سنة جديدة، حسّيت إني محتاج أكتب هالكلمات لكل شخص كان جزء من حياتي هالسنة.</p>
+    <p>يمكن ما جمعتنا معرفة طويلة، لكن كل واحد فيكم ترك أثر جميل ما راح أنساه.</p>
+    <p>2025 كانت سنة تعرّفت فيها على ناس علّموني معنى الصداقة والدعم بدون مقابل.</p>
+    <p>أتمنى في السنة الجديدة أيامكم تكون أخف وقلوبكم أهدى وأحلامكم أقرب للتحقق.</p>
+    <p>كل عام وأنتم بخير، وسنة جديدة مليانة خير وطمأنينة لكم جميعاً 🤍</p>
+    <div class="footer">كُتبت بكل حب <span class="heart">♥</span> — نهاية 2025</div>
+  </div>
+
+</body>
+</html>
